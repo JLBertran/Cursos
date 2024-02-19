@@ -1,0 +1,13 @@
+
+
+   O Github, alem de ser uma rede social para programadores, ele é um dos
+   mais famosos repositórios remotos do mercado.
+
+    Vantagens do Github:
+     * Repositórios Ilimitados
+     * Hospedagem de código-fonte
+     * Características de rede social
+     * Github Pages integrado (site simples gratuito em html)
+     * Colaboração
+     * Forks
+     

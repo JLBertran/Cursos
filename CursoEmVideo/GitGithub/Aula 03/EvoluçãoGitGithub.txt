@@ -1,0 +1,45 @@
+
+     
+     
+        CVS - Sistema de versões Concorrentes lançado em 1984
+          * Centralizado
+          * Open Source
+          * Mais popular durante anos
+          * Alguns problemas, como commit de mais de 3min, não permitir alteração
+           ou movimentação de arquivos  
+
+        SVN - Subvervion lançado em 2000
+          * Centralizado
+          * Open Source
+          * Sistema ainda esta ativo
+          * CVS-Like igual ao cvs
+
+        BitKeeper Lançado em 2000
+          * Distribuido 
+          * Proprietário
+          * Versão comunidade
+          * CVS-Free tentou ser totalmente diferente do cvs
+          * Em 2004 foi criado o Source Puller 
+          * Em 2005 passou a ser lançado uma nova licensa que bloqueia acesso ao metadados
+
+        Git Lançado em 2005
+          * Distribuido
+          * Open Source
+          * Feito em 10 dias (Versão usável)
+          * Focado em performance  
+        GIT Global Information Tracker
+        
+        GitHub Lançado em 2008
+          * Proprietário
+          * Hospedagem de código
+          * Baseado em git
+          * 2009 46k repositórios
+          * 2010 100k usuarios / 1M repositórios
+          * 2011 Ultrapassou SourceForge no qual era o antigo padrão
+          * 2013 3M usuarios / 5M repositórios
+          * 2016 14 Lugar na lista da Forbes
+          * 2018 Maior ataque de DDoS da história
+          * 2018 comprados pela Microsoft por 7.5b U$
+          * Operação independente
+          * 2020 compra do npm gestor de pacotes
+

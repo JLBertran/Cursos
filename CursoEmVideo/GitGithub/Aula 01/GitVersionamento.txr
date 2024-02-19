@@ -1,0 +1,23 @@
+
+   O que é Git? O que é Versionamento?
+
+     Git e Github são coisas diferentes, 
+    no caso o Git é um software de controle de versão enquanto o github é uma plataforma de 
+    rede social para programadores, no qual se quiser ser um programador, é obrigatório ter um
+    perfil publico no github.
+
+     Sendo o Git uma ferramenta de versionamento de software, podendo fazer muitas versões de uma
+    mesma coisa. 
+     
+     Commit: ato de mandar uma versão do software/site para o repositório central/local
+     Push: ato de enviar o Commit do Repositório Local para o Repositório Remoto
+
+    Vantagens de um software de Versionamento:
+      * Controle de Histórico
+      * Trabalho em Equipe
+      * Ramificação do Projeto
+      * Segurança
+      * Organização
+      
+
+      
