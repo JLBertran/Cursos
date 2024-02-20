@@ -1,0 +1,8 @@
+   
+   
+   Aula 8 Versionando arquivos antigos no github
+   durante a aula, foi feito um passo a passo similar ao
+   criar um repositório novo a diferença é escolher a 
+   pasta que deseja dar o push no github.
+   .gitignore, um comando para ignorar um arquivo selecionado
+   para não envia-lo no github.
