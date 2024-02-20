@@ -1,0 +1,4 @@
+  
+
+   Aula 7 focada em explicar o sistema de clonagem de dados do github
+   no qual foi feito a clonagem de conjunto de atividades de HTML.CSS
