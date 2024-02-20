@@ -1,0 +1,7 @@
+   
+   
+   Issues, problema, levantamento de questão sobre alguma coisa,
+   no qual qualquer pessoa pode abrir no github, buscando auxilio
+   de outras pessoas.
+
+   >>>>> Só abre uma issues após pesquisar se ja tem uma aberta <<<<<
