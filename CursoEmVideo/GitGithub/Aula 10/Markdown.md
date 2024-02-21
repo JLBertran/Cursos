@@ -86,7 +86,7 @@
    if num % 2 == 0: 
        print(f'O valor {num} é PAR')
    else:
-       print(f'O valor {num} é ÍMPAR')  
+       print(f'O valor {num} é ÍMPAR'))  
    ```
 
    Para colocar emote:
