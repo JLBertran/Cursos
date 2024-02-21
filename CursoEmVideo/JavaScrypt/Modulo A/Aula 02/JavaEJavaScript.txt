@@ -1,0 +1,24 @@
+  Diferença entre Java e JavaScript
+
+  as duas liguagem são bem diferentes entre elas,
+  a unica coisa similar é o nome Java, no qual foi uma jogada de marketing
+
+  Ecmacript é a linguagem JavaScript padronizada. 
+
+  NodeJS uma maquina que roda JS fora do navegador. 
+
+  Jquery conjunto de bibliotecas 
+  Angular facilita criação de app Website
+  React similar ao angular, mas mais flexivel
+  Vue outro similar ao angular
+  Electricon programa de criação de interface gráfica
+  Ionic criador de app movel 
+  Cordova. 
+
+  app criador de jogos em JS
+  Phaser
+  PixiJS
+  Impact 
+  MelonJS
+  CraftyJS
+  

@@ -1,0 +1,12 @@
+   O que o JavaScript faz ? 
+   
+   Client x Server
+   Cliente é aquele que solicita dados de um servidor o usuario padrão. 
+   Servidor, aquele que fornece os dados, no qual sempre é enviado uma cópia.
+
+   Website, ele é composto por conteudo, design e programação. 
+   HTML = Conteúdo  
+   CSS = Design
+   JS = Programação e interação. 
+
+
