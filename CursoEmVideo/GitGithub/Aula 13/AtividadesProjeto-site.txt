@@ -1,0 +1,2 @@
+ A aula 13 de git/github, cunitinua a alteração do projeto-site, visando a 
+ publicação do mesmo na propria plataforma do github. 
