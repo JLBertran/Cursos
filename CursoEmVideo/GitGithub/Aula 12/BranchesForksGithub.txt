@@ -1,0 +1,16 @@
+    Aula sobre Branchs e Forks. 
+    ramificação de código.
+
+    o tronco principai o ramo principal, é o main/master
+    a partir dele é possivel criar várias ramificaçoes.
+    Para qualquer alteração no seu código, evite commitar na master
+    faça sempre na branch, no ramo novo. 
+
+    Para tirar da ramificação e colocar no ramo principal,
+    da branch pro master/main basta fazer um merge. 
+    
+    A branch pode ser elimidada sem problema nenhum, pois não afeta a 
+    ramificação principal. 
+    
+
+
