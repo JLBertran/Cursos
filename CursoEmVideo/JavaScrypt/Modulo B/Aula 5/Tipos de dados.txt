@@ -1,0 +1,43 @@
+      
+      Sempre comente seus códigos JS
+      para facilitar
+      Comandos para adicionar comentários:
+
+      // é para uma única linha 
+      /* 
+      Para mais de uma linha de código
+      */
+
+      foi adicionado comentário para teste no ex001.html da aula 04. 
+
+      o sinal de = significa recebe/atribuição 
+
+      use sempre let, pois o var alem de ser ultrapassado, ele tem problema de escopo.
+      Regras de identificadores de Variáveis:
+       
+       * Podem começar com letra, $ ou _
+       * Não podem começar com numeros
+       * É possível usar letras e numeros
+       * É possível usar acentos e símbolos
+       * Não podem conter espaços 
+       * Não podem ser palavras reservadas.
+
+     Utilize sempre nomes coerentes em suas variáveis. 
+     Variáveis possuem algumas classificações sendo elas os tipos primitivos:
+     Number numeros em geral
+        tem 2 valores internos
+          Infinity
+          NaN
+     String podem ser caracteres em geral que estão entre aspas ou crases
+     Boolean resumindo entre true e false.
+     Null
+     Undefined
+     Object
+        Array
+     Function
+
+     utilize sempre o Typeof em caso de duvida.
+     
+         
+
+
