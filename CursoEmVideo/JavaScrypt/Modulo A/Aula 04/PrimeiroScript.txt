@@ -1,0 +1,12 @@
+   
+   Sempre tenha uma organização de arquivos.
+   
+   no HTML
+   Head é a parte de configurações 
+     title é o titulo que aparece na aba do navegador
+     Style é o css dentro do html
+   Body é a parte que vai aparecer no site
+     H é o titulo, seguindo por numeros de acordo com a classificação
+     P é o paragrafo. 
+     Script é onde você coloca a linguamge de programação dentro do body sempre na ultima parte.
+   
