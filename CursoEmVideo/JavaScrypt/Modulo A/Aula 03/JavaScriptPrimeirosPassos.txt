@@ -1,0 +1,24 @@
+   Dicas de aprendizado: 
+   Assistindo vídeos,
+   Pratica,
+   Ler conteúdo, manuais, livros,
+   Anotações, principalmente dos comandos,
+   Conversa com outras pessoas, ensinar e estudar junto,
+   Pensar em projetos próprios, situações do dia a dia para programar.
+
+   Bibliografia:
+   JavaScript O guia definitivo David Flamangar
+   JavaScript fuia do programador Mauricio Samy Silva
+   Guia de referencia Mozilla
+   Guia de referencia ECMA  ECMA262
+   
+   Aprender Logica de programação. 
+   
+
+
+
+
+
+
+
+
