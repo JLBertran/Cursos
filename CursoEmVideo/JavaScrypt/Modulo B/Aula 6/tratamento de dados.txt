@@ -15,3 +15,15 @@ pode ser utilizado:
 String(n)
 n.toString()
 
+o simbulo de + serve tanto para soma quanto para concaternar
+
+Templates strings funciona apenas com crases `` 
+${s} = place holder
+
+s.lenght ele diz o tamanho da string, quantas letras tem a string
+s.toUpperCase() ele coloca todas letras da strings em caixa alta/maiúscula
+s.toLowerCase() coloca todas letras da string em caixa baixa/minúscula
+.toFixed(2) define a quantidade de casas decimais num numero, de acordo com o valor em (0)
+.replace('.',',') permite a troca de termos como ponto por virgula.
+toLocaleString('pt-BR') faz a localização 
+toLocaleString('pt-BR', {style: 'currency', currency:'BRL'}) faz a localização 
