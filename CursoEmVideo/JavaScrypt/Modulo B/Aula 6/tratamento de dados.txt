@@ -1,0 +1,17 @@
+ 
+ 
+ Number
+ String
+
+ o simbulo de + no JS tem a função de concatenar.
+
+ para efetuar a conversão de um numero String para um numero Number
+é necessário utilizar o Number.parseInt(n) para um numero inteiro
+e para um numero real (com virgula) é necessário utilizar o Number.parseFloat(n)
+Porém, colocando apenas o Number, ele faz a analise e conversão sozinho, automáticamente. 
+
+para converter numero para String 
+pode ser utilizado: 
+String(n)
+n.toString()
+
