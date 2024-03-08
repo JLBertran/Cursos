@@ -1,0 +1,58 @@
+  Operadores no JS PArte 1
+
+   * Aritméticos
+     São operadores utilizados para fazer cálculos, sendo eles:
+     +  operador de soma ( 5 + 2 = 7 )
+     -  operador de subtração ( 5 - 2 = 3 )
+     *  operador de multiplicação ( 5 * 2 = 10 )
+     /  operador de divisão ( 5 / 2 = 2,5 )
+     %  operador de resto de divisão inteira ( 5 % 2 = 1)
+     ** operador de potência, potencializa ao quadrado ( 5 ** 2 = 25 )
+
+   * Atribuição
+       Var
+       Let
+       = significa receber uma Atribuição
+       Ex: 
+       let a = 5+3
+       let b = a%5
+       let c = 5*b**2
+       let d = 10-a/2
+       let e = 6*2/d
+       let f = b%e+4/e
+        
+       * Auto Atribuições fazer a mesma variável ser alterada recebendo valores diferentes, tendo também a versão simplificada utilizada quando a variável recebe ela mesma.
+         let n = 3 
+         n = n + 4     n += 4 
+         n = n - 5     n -= 5
+         n = n * 4     n *= 4
+         n = n ** 2    n **= 2
+         n = n % 5     n %= 5
+
+       * Incremento  
+       sempre quando incrementa ou decrementa um valor, pode ser utilizados os operadores:
+       ++ 
+       --
+
+       
+          
+
+   * Relacionais 
+
+   * Lógicos
+
+   * Ternários
+
+   Precedência de operadores neste caso ele prioriza a divisão primeiro
+    5 + 3 / 2 = 6,5
+    au utilizar parentezes é possível mudar a ordem de Precedência
+    (5 + 3) / 2 = 4 
+
+   Linha de prioridade de precedência
+   ()
+   **
+   * / % neste caso ambos tem a mesma procedência, ai segue a ordem da esquerda para direita
+   + - 
+  
+
+
