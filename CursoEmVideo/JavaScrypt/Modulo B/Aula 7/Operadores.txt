@@ -34,14 +34,6 @@
        ++ 
        --
 
-       
-          
-
-   * Relacionais 
-
-   * Lógicos
-
-   * Ternários
 
    Precedência de operadores neste caso ele prioriza a divisão primeiro
     5 + 3 / 2 = 6,5

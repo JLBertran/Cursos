@@ -1,0 +1,38 @@
+ Operadores
+
+    
+   * Relacionais 
+    > maior
+    < menor
+    >= maior ou igual
+    <= menor ou igual
+    == igual
+    != diferente
+    === igualdade restrita (tanto valor quanto tipo devem ser iguais)
+
+   o resultado sempre era um valor booleano, true ou false, verdadeiro ou falso
+   operadores de identidade, o sinal de igualdade não testa o tipo (strig/nunber)
+
+   * Lógicos 
+    !  negação ex: eu quero uma caneta azul se for outra cor, será negado
+    apenas um resultado do valor
+    && conjução (o "e" lógico) ex: eu quero uma caneta azul e uma vermelha, é necessário as ter as 2.
+    entre as opçoes de valor apenas um é verdadeiro
+    || Disjunção (o "ou" lógico) ex: eu quero uma caneta azul ou vermelha, uma ou outra serve.
+    tem várias maneiras do resultado ser aceitável
+     o resultado sempre será true ou false.
+
+   entre os operadores lógicos tem uma sequencia prioritária
+   1 ! não
+   2 && e
+   3 || ou
+
+   * Ternários  
+   ?  
+   :
+   forma resumida do if / se
+
+   quando tem operadores atitiméticos, lógicos e relacionais na mesma operação
+   primeiro é feito os aritiméticos () ** / + -
+   em segundo os relacionais < > >=
+   e por ultimo os lógicos. ! && ||
